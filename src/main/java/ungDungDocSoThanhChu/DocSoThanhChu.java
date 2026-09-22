@@ -72,19 +72,19 @@ public class DocSoThanhChu {
                     tenHangChuc = "fourty";
                     break;
                 case 5:
-                    tenHangChuc = "sixty";
+                    tenHangChuc = "fifty";
                     break;
                 case 6:
-                    tenHangChuc = "seventy";
+                    tenHangChuc = "sixty";
                     break;
                 case 7:
-                    tenHangChuc = "eighty";
+                    tenHangChuc = "seventy";
                     break;
                 case 8:
-                    tenHangChuc = "ninety";
+                    tenHangChuc = "eighty";
                     break;
                 case 9:
-                    tenHangChuc = "quarter";
+                    tenHangChuc = "ninety";
                     break;
             }
             if (hangDonVi == 0) {
